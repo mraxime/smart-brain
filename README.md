@@ -2,7 +2,7 @@
 
 Smart Brain est une application web qui utilise l'API Clarifai pour localiser un visage dans une photo. Elle utilise un front-end React.js et un back-end Node.js avec Express.js ainsi qu'une base de données PostgreSQL pour garder une trace du nombre d'entrées effectuées par un utilisateur.
 
-<a href="https://maxime50.github.io/smart-brain">Voir en live</a>
+<a href="https://smart-brain-mr.herokuapp.com/">Voir en live</a>
 
 ![picture of the app](https://github.com/Maxime50/smart-brain/blob/master/smart-brain-example.png)
 
